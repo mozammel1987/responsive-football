@@ -5,4 +5,50 @@ h1{
     line-height: 80px;
     font-weight: bold;
 }
+
+.all-list{
+    display: flex;
+    /* justify-content: left; */
+    justify-content: space-between;
+    background-color:#2D25A0;
+    left: 156px;
+}
+.box{
+    margin-right: 50px;
+}
+.list-ordinary{
+    display: flex;
+    padding-left: 40px;
+    
+}
+.list-special{
+    margin-left: 200px;
+}
+#top-right-button{
+    color: #FFFFFF;
+    background-color: #E02C6D;  
+}
+.half-width{
+left: 156px;
+top: 207px;
+}
+
+
+.top-img{
+    width: 556.01px;
+height: 438px;
+left: 1299.01px;
+top: 153px
+}
 /* #2D25A0; */
+.top-banner{
+    justify-content: center;
+    position: relative;
+    display: flex;
+    background-color:#2D25A0;
+}
+.top-button{
+    color: #FFFFFF;
+    background-color: #E02C6D;
+    
+}
